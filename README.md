@@ -1,5 +1,3 @@
-I have formatted the Windows 10 product keys you provided into a GitHub README format:
-
 ### Windows 10 Product Keys
 
 #### Windows 10 Home Edition
